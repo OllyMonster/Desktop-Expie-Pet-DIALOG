@@ -1,0 +1,589 @@
+	{ 
+		"diaGlobal": {
+			"Test": [
+				"Test Dialogue"
+			],
+			
+			"HappyPassive": [
+				":3"
+			],
+			
+			"Ragdolled1": [
+				"Woah!",
+				"Ouch!",
+				"Hey!",
+				"AAAA",
+				"AHHHH",
+				"AGHH",
+				"aghh!",
+				"auh!",
+				"AUH!"
+			],
+			
+			"Ouchies": [
+				"[shake]Stop!",
+				"[shake]Stop it!",
+				"[shake]OW!"
+			],
+			
+			"smallBluntHit": [
+				"ow…",
+				"be careful {NAME}",
+				"please be careful {NAME},you hit me",
+				"ow",
+				"you hit me {NAME}...",
+				"gotta be more careful {NAME}",
+				"can you be more careful moving that {DAMAGE SOURCE} {NAME}?",
+				"dont worry {NAME}, im fine."
+			],
+			
+			"ModerateBluntHit": [
+				"ow",
+				"Ow",
+				"dude be carful swinging that {DAMAGE SOURCE} around…",
+				"{NAME}, what was that for…",
+				"dude stop hitting me",
+				"are you trying to hurt me {NAME}?",
+				"{NAME}, your hurting me",
+				"ow… im fine, im fine" 
+			],
+			
+			"HardBluntHit": [
+				"OW",
+				"SHIT",
+				"WHAT WAS THAT FOR?",
+				"DUDE THAT HURT {NAME}",
+				"{NAME} ARE YOU TRYING TO KILL ME?",
+				"FUCK… that hurt…",
+				"ahuuu my head…",
+				"SHIT, THAT HURT",
+				"BE CARFUL DUMBASS",
+				"DO YOU HAVE A BRAIN?",
+				"WHAT THE HELL {NAME}",
+				"ARE YOU INSANE?",
+				"ARE YOU CRAZY?",
+				"FFFFUUUUCCCKKKK",
+				"HIT ME ONE MORE TIME, I DARE YOU",
+				"that close button looking pretty.",
+				"HIT ME AGAIN AND I WILL OPEN YOUR SEARCH HISTORY ON FULL DISPLAY",
+				"I will bend your window so hard not even bob the builder can fix it."
+			],
+			
+			"lightSlicingHit": [
+				 "Ow",
+				 "dude what the hell you cut me {NAME}",
+				 "{NAME}, be careful with that {DAMAGE SOURCE}",
+				 "you cut me!",
+				 "great now i got a cut…"
+			],
+			
+			"moderateSlicingHit": [
+				 "OW",
+				 "why the hell are you swinging that {DAMAGE SOURCE} around like a mad lad?",
+				 "FUCK",
+				 "SHIT",
+				 "STOP CUTTING ME",
+				 "are you trying to kill me {NAME}",
+				 "you are being so reckless, {NAME}...",
+				 "YOU CUT ME, WHAT THE HELL {NAME}",
+				 "AGHHHH"
+			],
+			
+			"hardSlicingHit": [
+				 "AAAAAAAAAAAA",
+				 "SHIT, FUCK…",
+				 "AHHH IT HURTS",
+				 "YOU JUST SLICED MY {AFFECTED LIMB} OPEN",
+				 "AHHHHHHHHHHH",
+				 "AHHHHHH, IT HURTS SO BAD"
+			],
+			
+			
+			"Interested": [
+				"?",
+				"..?"
+			],
+			
+			
+			
+			
+			"EatAmazingFood": [
+				"0-0",
+				"0_0",
+				"whoa… that tasted AMAZING",
+				"whoa…",
+				"please give more more of that",
+				"i love this food!",
+				"{EATEN FOOD} tastes so good",
+				"i love this…",
+				"waiter waiter, more {EATEN FOOD} please!",
+				"this shit is AMAZING"
+			],
+			
+			"EatDecentFood": [
+				"nom",
+				"*chewing*",
+				"decent food",
+				"could i get some more?",
+				"omnom",
+				"nom nom nom",
+				"mmmmm",
+				"more please",
+				"decent stuff",
+				"this is some good shit!",
+				"ohhh thats the stuff",
+				"Finally some good fucking food",
+				"mmmm the chef’s kiss",
+				"Good~" 
+			],
+			
+			"EatMidFood": [
+				"eh",
+				"meh",
+				"nom",
+				"om nom nom",
+				"nom om nom nom om",
+				"could be better",
+				"m"
+			],
+			
+			"EatMediocreFood": [
+				"could be better",
+				"get some better food?",
+				"not the best not the worst",
+				"nom",
+				"om",
+				"nom om",
+				"om nom",
+				"you got any better food?",
+				"3.6/10, not great, not terrible",
+				"Can I eat something better next time?",
+				"Don’t you think i deserve better?",
+				"meh…",
+				"Hope this is a one time thing.",
+				"Tastes like dirt."
+			],
+			
+			"EatHorribleFood": [
+				"Can you even cook?",
+				"Are you trying to poison me?",
+				"I'd rather starve than eat this.",
+				"I HATE THAT TASTE",
+				"i rather eat the trash folder than this. ",
+				"That tastes like shit",
+				"This is horrible even for dog standards.",
+				"im going to throw up in your folders if you give me this again",
+				"disgusting...",
+				"what the fuck am i eating",
+				"yuck!",
+				"ew ew ew ew what in the world is this",
+				"this tastes worst than milky",
+				"ewwwwwwww"
+			],
+			
+			"DecentlyHungry": [
+				"hey {NAME} you got any food?",
+				"im getting a little hungry {NAME}",
+				"you got something like a geofruit or something?",
+				"my stomach is getting quite hungry for some food",
+				"you got any food {NAME}?”, “where could some food be…",
+				"any food here?",
+				"i would like a little food {NAME}",
+				"some food would be appreciated {NAME}",
+				"any food in this folders?"
+			],
+			
+			"Hungry": [
+				"im getting quite hungry",
+				"you got some food {NAME}?",
+				"my tummy hurts :(",
+				"my stomach hurts",
+				"wheres some food",
+				"i would like some food right now {NAME}",
+				"some food would be appreciated {NAME}",
+				"hungry…",
+				"food…",
+				"you got some food {NAME}? My stomach hurts a bit",
+				"food? Any food?",
+				"getting hungry",
+				"someone really wants some food {NAME}…",
+				"is there food anywhere {NAME}?",
+				"Can you spare some food for this caveling?"
+			],
+			
+			"VeryHungry": [
+				"im getting really hungry",
+				"i would really like some food {NAME}",
+				"is there food ANYWHERE?",
+				"my stomach is REALLY hurting {NAME}",
+				"im REALLY hungry {NAME}”, “please… food… ",
+				"im REALLY craving for some food right now",
+				"a little treat seems like it would be nice to have…",
+				"getting super hungry",
+				"wheres ANY food",
+				"are you even awake {NAME}???? I really need some food",
+				"wake uppppp {NAME}",
+				"are you even alive {NAME}???",
+				"i NEED food {NAME}",
+				"*bonk *bonk* *bonk*, feeeeeed meeeeee {NAME}!!!!"
+			],
+			
+			"Starving": [
+			 	"PLEASE I NEED FOOD",
+			 	"IM STARVING",
+			 	"PLEASE FOOD",
+			 	"WAKE UP DUMBASS",
+			 	"WAKE UPPP",
+				"WHERE THE HELL ARE YOU {NAME}",
+				"I REALLY NEED FOOD {NAME}, IM FUCKING STARVING HERE",
+				"PLEASE IM BEGGING YOU, I NEED FOOD {NAME}",
+				"DO YOU NOT CARE ABOUT ME {NAME}?",
+				"WHAT IS WRONG WITH YOU? FEED ME {NAME}",
+				"I ACTUALY CANT MOVE ANYMORE {NAME}, IM STARVING TO DEATH",
+				"IM STARVING TO DEATH {NAME}”, “I DESPERATELY NEED FOOD {NAME}",
+				"IM BEGGING YOU FOR FOOD {NAME}",
+				"Im gonna start eating your programs.",
+				"IM GONNA EAT YOUR OS FOLDER...",
+				"YOU BETTER FEED ME BEFORE I FUCKING EAT YOUR RAM AND GPU!",
+				"IM GONNA EAT SO MUCH DUNE WILL GO OUT OF BUSINESS",
+				"IM GONNA EAT YOUR WALLS {NAME}"
+			],
+			
+			
+			
+			"FoodBad": [
+				"Ew!",
+				"Yuck!"
+			],
+			
+			"FoodGood": [
+				"I like this.",
+				"Can you get more of this?"
+			],
+			
+			
+			
+			"casLaunch": [
+				"Hey! That's one of us!",
+				"Wait, I think I recognize that one!"
+			],
+			
+			
+			
+			"Pet": [
+				"T-That feels nice.",
+				"T-thanks!",
+				"This is nice.."
+			],
+			
+			"PetHighRep": [
+				"ohhh yeaaa",
+				"keep going",
+				"thats the spot",
+				"oh that feels good",
+				"keep doing that {NAME}",
+				":3",
+				":D",
+				"*smile*",
+				"*smiling*",
+				":)",
+				"thank you…",
+				"thank you {NAME}"
+			],
+			
+			"PetMidRep": [
+				"thank you…",
+				"yea keep doing it there",
+				":)",
+				"thats pretty nice…",
+				"???",
+				"...",
+				"that feels good…"
+			],
+			
+			"PetLowRep": [
+				"...",
+				"stop touching me",
+				"DONT TOUCH ME",
+				">:(",
+				"STOP TRYING TO PET ME YOU EVIL FUCK",
+				"STOP IT",
+				"LEAVE ME ALONE!",
+				"You will abandon me again anyways.",
+				"Go pet grass.",
+				"BACK OFF",
+				"Go pet Milky.",
+				":<",
+				"HANDS. OFF.",
+				"I WILL GUT YOUR CURSOR LIKE A FISH"
+			],
+			
+			"PetRejection": [
+				"Hey, stop that!",
+				"Don't touch me!",
+				"Get away from me!"
+			],
+			
+			"CursorHoverOverHighRep": [
+				"hello {NAME}!",
+				"oh hi cursor!",
+				"i wonder how that cursor is flying…",
+				"you got some fun stuff i could do {NAME}?",
+				"glad your nice to me {NAME}"
+			],
+			
+			"CursorHoverOverMidRep": [
+				"oh hi…",
+				"some pets would be appreciated",
+				"could i get some pets?",
+				"please dont toss me around.",
+				"dont throw me into a wall please…",
+				"that cursor is quite pointy…",
+				"hello… cursor…",
+				"please be nice to me…"
+			],
+			
+			"CursorHoverOverLowRep": [
+				"i swear if your going to toss me around like a fucking toy i will kill myself",
+				"dont touch me",
+				"i dont want to be petted",
+				"are you going to hurt me again…",
+				"dont stab me with that cursor…",
+				"i will slit my throat with that cursor if you hurt me again…",
+				"your just evil… pure evil, {NAME}...",
+				"what are you going to do this time {NAME}...",
+				"dont fucking touch me",
+				"get the cursor away from me"
+			],
+			
+			
+			
+			"AfkMouseMoveHighRep": [
+				"oh hi!",
+				"your back!",
+				"hello {NAME}!",
+				"ive been waiting for you {NAME}!",
+				"i can’t wait to watch you play",
+				"hello {NAME}! What are we going to do today?",
+				"What are we going to do today {NAME}?",
+				"how are you doing {NAME}?",
+				"oh hi {NAME}, your back!",
+				"oh man i was getting scared that you would be gone :(",
+				"glad your back {NAME}",
+				"hi {NAME}!",
+				"watcha gonna play today?",
+				"haiiiii! :D"
+			],
+			
+			"AfkMouseMoveMidRep": [
+				"Hey… ",
+				"You’re back…",
+				"Did you bring the snacks i asked?",
+				"So what are we doing now?",
+				"Can we open another program? Im getting tired of staring at the same program."
+			],
+			
+			"AfkMouseMoveLowRep": [
+				"Did you remember about me?",
+				"Why didn't you leave me behind?",
+				"Can you click that terminate button for me?",
+				"Just ALT F4 me.",
+				"Ofcourse you went AFK, probably forgot i exist.",
+				"I was gonna jump into the trash folder.",
+				"Next time you leave me alone im gonna open your ‘homework folder’ and share it to your family."
+			],
+
+
+
+			"JoyfulMouseAfk": [
+				"{NAME} likely went stretch their legs",
+				"When {NAME} comes back, we will have soooo much fun! :D",
+				"{NAME} always comes back with the best ideas!"
+			],
+
+			"HappyMouseAfk": [
+				"This is quite an interesting desktop you got here {NAME}",
+				"Oooo what game is this?",
+				"Can i play with this program while you’re gone?"
+			],
+
+			"MidMouseAfk": [
+				"Hey mind bringing me a snack when ya come back?",
+				"",
+			],
+
+			"SadMouseAfk": [
+				"come back {NAME} please… :(",
+				"hey! Heeeyyyy! Anyone there?",
+				"awwwww your gone...",
+				"where did you go?",
+				"hello?",
+				"oh... your gone",
+				"i wish you were here...",
+				"why did you stop moving",
+				"please dont be dead...",
+				"great now your gone",
+				"please dont go...",
+				"",
+			],
+
+			"DeppresedMouseAfk": [
+				"Ofcourse {NAME} abandoned me…",
+				"FINE I DIDN'T NEED A FRIEND ANYWAYS.",
+				"Im gonna jump into the trash folder at the rate.",
+				"Im gonna throw myself into that firewall.",
+				"Dont you fucking dare abandon me {NAME}!",
+				"{NAME}? {NAME}! COME BACK RIGHT THE FUCK NOW",
+				"YOU BETTER COME BACK OR ELSE.",
+				"im gonna click that suspicious link.",
+				"I SWEAR IF YOU DONT COME BACK I WILL NUKE YOUR SYSTEM. MARK MY FUCKING WORDS",
+				"COME BACK OR IM GONNA ALT F4 MYSELF"
+			],
+			
+
+
+
+
+			"JoyfulMouseActive": [
+				"hey you got something i could do?",
+				"i wonder if you can talk",
+				"you got a little snack i could eat?",
+				"where could a little snack be...",
+				"what should we do after this?",
+				"how are you {NAME}?",
+				":D",
+				":3",
+				"^-^",
+				"^_^"
+			],
+
+			"HappyMouseActive": [
+				":)",
+				":3",
+				"-_-",
+				"this is entertaining",
+				"can we keep doing this later?",
+				"how are you {NAME}?"
+			],
+
+			"MidMouseActive": [
+				"i wish you could talk…",
+				":|",
+				"im bored…",
+				"whatcha doin?",
+				"so uh...",
+				"how are you doing..."
+			],
+
+			"SadMouseActive": [
+				"hey you got something for me to do?",
+				"im kinda down, {NAME}",
+				"is there anything else that we could do?",
+				"this is boring",
+				"what will we do after this?",
+				"i dont feel too good...",
+				"hm...",
+			],
+
+			"DeppresedMouseActive": [
+				"im… nevermind",
+				":(",
+				"are you even alive {NAME}?",
+				"{NAME}... im not feeling good…",
+				"i need someone to talk to…",
+				"if only you could talk…",
+				"is there anybody else here?",
+				"will there be another one of me here ever?",
+				"im... just sad...",
+			],
+
+			"MiserableMouseActive": [
+				"i cant do this anymore",
+				"i dont think i can keep going like this {NAME}",
+				"im sorry {NAME}...",
+				"why even try anymore…",
+				"*whining*",
+				"i-",
+				"im sorry for trying",
+				"{NAME}... i cant go on anymore…"
+			],
+
+
+			"SuicideLineHighRep": [
+				"{NAME}... i cant go on anymore… it’s too much… goodbye…",
+				"It was nice being with you… when i was happy… but i cant go on anymore… the pain is too much…"
+			],
+
+			"SuicideLineMidRep": [
+				"im sorry for everything… goodbye {NAME}",
+				"Goodbye {NAME}...",
+				"Im sorry for annoying you all those times… i cant go on anymore… im sorry"
+			],
+			
+			"SuicideLineLowRep": [
+				"I cant keep doing this… fuck all of this… fuck you… you evil asshole… your not getting the satisfaction of making me suffer anymore… goodbye asshole.",
+				"Remember… YOU, yes YOU… YOU did ALL OF THIS… i know you wont regret anything though since your just a psychopath… go die… you will pay for your horrible actions one day… goodbye…",
+				"...",
+				"Fuck you"
+			],
+			
+			
+			"ProgramCloseHighRep": [
+				"goodbye {NAME}!",
+				"see ya later {NAME}!",
+				"i had a fun time with you :D",
+				"cant wait to do more stuff later! Goodbye {NAME}!",
+				"see ya!"
+			],
+			
+			"ProgramCloseMidRep": [
+				"oh your closing me… oh well…",
+				"goodbye {NAME}...",
+				"see ya…",
+				"anddd your closing me…",
+				"goodbye",
+				"bye {NAME}"
+			],
+			
+			"ProgramCloseLowRep": [
+				"thank you… asshole…",
+				 "close it… please…",
+				 "go fuck off {NAME}",
+				 "goodbye asshole",
+				 "thank you…",
+				 "glad your closing me… today was hell…",
+				 "go to hell {NAME}",
+				 "...",
+				 "NEVER OPEN THIS PROGRAM AGAIN OR I WILL HUNT YOU DOWN {NAME}. MARK MY FUCKING WORDS."
+			],
+			
+			
+			
+			"Intro": [
+				"AAAAA",
+				"Where am I?...",
+				"What kind of test is this?",
+				"what the...",
+				"im scared...",
+				"what is that thing...",
+				"who are you..."
+			],
+			
+			"FirstInteraction": [
+				"What the hell?!",
+				"What is that thing?!",
+				"Uhm, hello?"
+			]
+			
+			
+			
+		},
+		"items": {
+			"Test Item": {
+				"description": "This is a test item."
+			},
+			"Crate": {
+				"description": "A standard crate that who's weight scales with size."
+			}
+		}
+	}
