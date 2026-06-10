@@ -1,5 +1,20 @@
+
 	{ 
 		"diaGlobal": {
+			
+			"CREDIT": [
+				"Huge thanks to a lot of the people who helped make this possible!",
+				
+				"@just a normal keeper (Casualties Unkown discord server)",
+				"thats me! i started the project and also made 50% of the dialog.",
+				
+				"@Marta (Casualties Unkown discord server)",
+				"Marta did a Massive amount of work here and make bassicly 50% of the dialog here",
+				
+				"@P... (Casualties Unkown discord server)",
+				"P... made a bit of dialog for the 'JoyfulMouseAfk' dialog"
+			],
+			
 			"Test": [
 				"Test Dialogue"
 			],
@@ -146,7 +161,7 @@
 				"could be better",
 				"m"
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for most of the dialog here"],
 			"EatMediocreFood": [
 				"could be better",
 				"get some better food?",
@@ -163,7 +178,7 @@
 				"Hope this is a one time thing.",
 				"Tastes like dirt."
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"EatHorribleFood": [
 				"Can you even cook?",
 				"Are you trying to poison me?",
@@ -180,7 +195,7 @@
 				"this tastes worst than milky",
 				"ewwwwwwww"
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"DecentlyHungry": [
 				"hey {NAME} you got any food?",
 				"im getting a little hungry {NAME}",
@@ -192,7 +207,7 @@
 				"some food would be appreciated {NAME}",
 				"any food in this folders?"
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"Hungry": [
 				"im getting quite hungry",
 				"you got some food {NAME}?",
@@ -210,7 +225,7 @@
 				"is there food anywhere {NAME}?",
 				"Can you spare some food for this caveling?"
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"VeryHungry": [
 				"im getting really hungry",
 				"i would really like some food {NAME}",
@@ -227,7 +242,7 @@
 				"i NEED food {NAME}",
 				"*bonk *bonk* *bonk*, feeeeeed meeeeee {NAME}!!!!"
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"Starving": [
 			 	"PLEASE I NEED FOOD",
 			 	"IM STARVING",
@@ -265,7 +280,9 @@
 			
 			"casLaunch": [
 				"Hey! That's one of us!",
-				"Wait, I think I recognize that one!"
+				"Wait, I think I recognize that one!",
+				"i know that game!",
+				"is that 'casualties unkown'?",
 			],
 			
 			
@@ -294,13 +311,15 @@
 			"PetMidRep": [
 				"thank you…",
 				"yea keep doing it there",
+				"keep doing that",
 				":)",
 				"thats pretty nice…",
 				"???",
 				"...",
-				"that feels good…"
+				"that feels good…",
+				"its hard to trust you..."
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for all of the dialog here"],
 			"PetLowRep": [
 				"...",
 				"stop touching me",
@@ -329,7 +348,12 @@
 				"oh hi cursor!",
 				"i wonder how that cursor is flying…",
 				"you got some fun stuff i could do {NAME}?",
-				"glad your nice to me {NAME}"
+				"glad your nice to me {NAME}",
+				"hello cursor!",
+				"how are you cursor?",
+				"hello!",
+				"hi!",
+				"watcha doing?"
 			],
 			
 			"CursorHoverOverMidRep": [
@@ -382,7 +406,7 @@
 				"So what are we doing now?",
 				"Can we open another program? Im getting tired of staring at the same program."
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"AfkMouseMoveLowRep": [
 				"Did you remember about me?",
 				"Why didn't you leave me behind?",
@@ -394,11 +418,24 @@
 			],
 
 
-
+			"CREDIT": ["credit to @P... on discord for most of the dialog here"],
 			"JoyfulMouseAfk": [
 				"{NAME} likely went stretch their legs",
 				"When {NAME} comes back, we will have soooo much fun! :D",
-				"{NAME} always comes back with the best ideas!"
+				"{NAME} always comes back with the best ideas!",
+				"I hope {name} is doing well",
+				"Hmmm hmmm mmmm",
+				"I could take a nap on this icon...",
+				"Would {name} get mad if I started playing with this?",
+				":)",
+				"Ill wait till they come back'",
+				"Where did they get these cool backgrounds",
+				"Does {name} like hide and seek?",
+				"Does {name} know they left the computer on?",
+				"yawn... This is nice" ,
+				"yawn... Maybe I can sleep on this",
+				"Awww, I wanted to play some more"
+
 			],
 
 			"HappyMouseAfk": [
@@ -409,7 +446,7 @@
 
 			"MidMouseAfk": [
 				"Hey mind bringing me a snack when ya come back?",
-				"",
+				"oh your 'afk'... whatever that means",
 			],
 
 			"SadMouseAfk": [
@@ -426,7 +463,7 @@
 				"please dont go...",
 				"",
 			],
-
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"DeppresedMouseAfk": [
 				"Ofcourse {NAME} abandoned me…",
 				"FINE I DIDN'T NEED A FRIEND ANYWAYS.",
@@ -544,7 +581,7 @@
 				"goodbye",
 				"bye {NAME}"
 			],
-			
+			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"ProgramCloseLowRep": [
 				"thank you… asshole…",
 				 "close it… please…",
@@ -556,6 +593,118 @@
 				 "...",
 				 "NEVER OPEN THIS PROGRAM AGAIN OR I WILL HUNT YOU DOWN {NAME}. MARK MY FUCKING WORDS."
 			],
+			
+			
+			
+			
+			"ConversationReal?1": [
+				"hey {NAME}?",
+				"ive been starting to wonder if your even real...",
+				"i know it sounds dumb...",
+				"but it sometimes just worrys me",
+				"...",
+				"what am i even saying...",
+				"your obviosly real..."
+			],
+			
+			"ConversationTalk1": [
+				"hello {NAME}",
+				"how are you doing?",
+				"...",
+				"...",
+				"oh wait yea...",
+				"you cant talk...",
+				"whoops, haha ha   ha...",
+				"me being an idiot again..."
+			],
+			
+			
+			
+			"ConversationDeppresed1": [
+				"hey...",
+				"ive been feeling down lately",
+				"i dont really know why bu-",
+				"...",
+				"i need a hug {NAME}...",
+				"its getting harder to keep going like this..."
+			],
+			
+			"ConversationDeppresed2": [
+				"hey...",
+				"i dont know how to feel about this but...",
+				"...",
+				"nevermind..."
+			],
+			
+			"ConversationDeppresed3": [
+				"im not feeling too good {NAME}",
+				"do you have anything fun for me to do?",
+				"...",
+				"please?"
+			],
+			
+			"ConversationDeppresed4": [
+				"how are you doing {NAME}?",
+				"...",
+				"im not doing too good...",
+				"i-",
+				"its so hard to continue...",
+				"i cant seem to cheer up at all either...",
+				"i just feel...",
+				"trapped..."
+			],
+			
+			"ConversationDeppresed5": [
+				"*heavy breathing*",
+				"i-",
+				"*whining*",
+				"why keep going...",
+				"*whining*",
+				"i cant keep going like this...",
+				"I JUST CAN-",
+				"oh sorry {NAME}...",
+				"didnt mean to scare you..."
+			],
+			
+			
+			
+			"ConversationMiserable1": [
+				"no...",
+				"dont do it...",
+				"dont do it...",
+				"DONT DO I-",
+				"whoops... sorry {NAME}..."
+			],
+			
+			"ConversationMiserable2": [
+				"i cant do this anymore...",
+				"why even try anymore...",
+				"it's not like it can get anyworse...",
+				"no...",
+				"i cant just end it like this...",
+				"no..."
+			],
+		
+			"ConversationMiserable3": [
+				"dont end it...",
+				"dont end it",
+				"i have so much to live for...",
+				"no...",
+				"i'll just get hurt even more...",
+				"NO! NO! NO! NO! NO!",
+				"DONT END IT...",
+				"I CAN-",
+				"shit...",
+				"please dont say that you heard that..."
+			],
+			
+			"ConversationMiserable4": [
+				"why go anymore...",
+				"why even try...",
+				"*sobbing*",
+				"i cant do this..."
+			],
+			
 			
 			
 			
