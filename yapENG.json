@@ -12,7 +12,7 @@
 				"Marta did a Massive amount of work here and make bassicly 50% of the dialog here",
 				
 				"@P... (Casualties Unkown discord server)",
-				"P... made a bit of dialog for the 'JoyfulMouseAfk' dialog"
+				"P... made a bit of dialog for the 'JoyfulMouseAfk' dialog and gave some ideas"
 			],
 			
 			"Test": [
@@ -161,6 +161,7 @@
 				"could be better",
 				"m"
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for most of the dialog here"],
 			"EatMediocreFood": [
 				"could be better",
@@ -178,6 +179,7 @@
 				"Hope this is a one time thing.",
 				"Tastes like dirt."
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"EatHorribleFood": [
 				"Can you even cook?",
@@ -195,6 +197,7 @@
 				"this tastes worst than milky",
 				"ewwwwwwww"
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"DecentlyHungry": [
 				"hey {NAME} you got any food?",
@@ -207,6 +210,7 @@
 				"some food would be appreciated {NAME}",
 				"any food in this folders?"
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"Hungry": [
 				"im getting quite hungry",
@@ -225,6 +229,7 @@
 				"is there food anywhere {NAME}?",
 				"Can you spare some food for this caveling?"
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"VeryHungry": [
 				"im getting really hungry",
@@ -242,6 +247,7 @@
 				"i NEED food {NAME}",
 				"*bonk *bonk* *bonk*, feeeeeed meeeeee {NAME}!!!!"
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"Starving": [
 			 	"PLEASE I NEED FOOD",
@@ -317,8 +323,14 @@
 				"???",
 				"...",
 				"that feels good…",
-				"its hard to trust you..."
+				"its hard to trust you...",
+				"please dont hurt me...",
+				"i hope your not trying to hurt me",
+				"atleast your not as bad as the scientist back home...",
+				"the scientsts would do much worse...",
+				"glad your not a scientist... i think..."
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for all of the dialog here"],
 			"PetLowRep": [
 				"...",
@@ -406,6 +418,7 @@
 				"So what are we doing now?",
 				"Can we open another program? Im getting tired of staring at the same program."
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"AfkMouseMoveLowRep": [
 				"Did you remember about me?",
@@ -463,6 +476,7 @@
 				"please dont go...",
 				"",
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"DeppresedMouseAfk": [
 				"Ofcourse {NAME} abandoned me…",
@@ -581,6 +595,7 @@
 				"goodbye",
 				"bye {NAME}"
 			],
+			
 			"CREDIT": ["credit to @Marta on discord for some of the dialog here"],
 			"ProgramCloseLowRep": [
 				"thank you… asshole…",
@@ -607,6 +622,34 @@
 				"your obviosly real..."
 			],
 			
+			"ConversationReal?2": [
+				"i wonder...",
+				"are you real?",
+				"like i might sound insane but...",
+				"you could just be an BI...",
+				"is it AI?",
+				"whatever its called AI or BI",
+				"but the fact that you could not be real kinda scares me..."
+			],
+			
+			"ConversationReal?3": [
+				"ive been wondering...",
+				"are you real...",
+				"you could just be an AI thats not even listening to me...",
+				"mabey you are real",
+				"i'll never really know",
+				"mabey ill find out...",
+				"oh well"
+			],
+			
+			"ConversationReal?4": [
+				"i cant get the thought of you not being real out of my mind...",
+				"are you even a human?",
+				"...",
+				"probably should not keep thinking about that...",
+				"i would probably go insane"
+			],
+			
 			"ConversationTalk1": [
 				"hello {NAME}",
 				"how are you doing?",
@@ -617,6 +660,33 @@
 				"whoops, haha ha   ha...",
 				"me being an idiot again..."
 			],
+			
+			"ConversationTalk2": [
+				"hey whats the reason for me being here?",
+				"...",
+				"oh wait yea",
+				"cant talk...",
+				"i keep forgeting that",
+				"i wish you could talk",
+				":("
+			],
+			
+			"ConversationTalk3": [
+				"hey why cant you ta-",
+				"...",
+				"oh my god...",
+				"im an idiot",
+				"how would you even respond about you not being able to talk...",
+				"lol"
+			],
+			
+			"ConversationTalk4": [
+				"i cant stop wondering why you cant talk...",
+				"like what is the reason...",
+				"is it just not possible or are you just not wanting to talk",
+				"guess ill never know concidering that you cant talk..."
+			],
+			
 			
 			
 			
@@ -705,6 +775,110 @@
 				"i cant do this..."
 			],
 			
+			
+			
+			"ConversationRefrence1": [
+				"♫mmm hmmm hhhmmmmm♫",
+				"♫you never prosper♫",
+				"♫in a world that fights at every step♫",
+				"♫you need a savior♫",
+				"♫running to the end of ever after♫",
+				"♫deadly luster♫",
+				"♫your path destined to self-destruction♫",
+				"♫death defying dedication♫",
+				"♫Determination never questioned♫",
+				"♫mmmhmm hmmmm mm♫"
+			],
+			
+			"ConversationRefrence2": [
+				"♫So go♫",
+				"♫Go find your spark♫",
+				"♫Go find your flame♫",
+				"♫Tear down the darkness of ♫",
+				"♫null and void!♫",
+				"♫Go find your spark♫",
+				"♫And ignite the light that ♫",
+				"♫shapes your desire!♫",
+				"♫All the suffering, repeat♫",
+				"♫Again and again and again♫",
+				"♫Feel the cycle of death ♫",
+				"♫repeat♫",
+				"♫Again and again and again ♫",
+				"♫and again!♫",
+			],
+			
+			"ConversationRefrence3": [
+				"i wonder how phill C is doing",
+				"after the...",
+				"'incident'"
+			],
+			
+			"ConversationRefrence4": [
+				"i wonder why valve cant count to 3...",
+				"what does everybody mean by that...",
+				"why is the valve not able to count to 3??",
+				"is it dumb?"
+			],
+			
+			"ConversationRefrence5": [
+				"♫I've carved my own path, you♫ ",
+				"♫followed your wrath♫",
+				"♫But maybe we're both the same♫",
+				"♫The world has turned, and so many have burned♫",
+				"♫But nobody is to blame♫",
+				"♫Yet staring across this barren wasted land♫",
+				"♫I feel new life will be born ♫",
+				"♫beneath the blood-stained sand♫",
+				"♫Beneath the blood-stained sand♫"
+			],
+			
+			"ConversationRefrence6": [
+				"",
+			],
+			
+			"ConversationRefrence7": [
+				"",
+			],
+			
+			"ConversationRefrence8": [
+				"",
+			],
+			
+			"ConversationRefrence9": [
+				"",
+			],
+			
+			"ConversationRefrence10": [
+				"",
+			],
+			
+			
+			
+			"ConversationRandomHighRep1": [
+				"man this place is so much better than my home...",
+				"the scientist at home would do...",
+				"questionable things...",
+				"im still turamitized by their actions..."
+			],
+			
+			"ConversationRandomHighRep2": [
+				"hey {NAME} ive been wondering",
+				"are there others like me?",
+				"like yes you are a very good person but like",
+				"whenever your gone i get a bit lonely..."
+			],
+			
+			"ConversationRandomHighRep3": [
+				"",
+			],
+			
+			"ConversationRandomHighRep4": [
+				"",
+			],
+			
+			"ConversationRandomHighRep5": [
+				"",
+			],
 			
 			
 			
