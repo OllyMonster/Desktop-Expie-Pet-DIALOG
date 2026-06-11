@@ -289,6 +289,11 @@
 				"Wait, I think I recognize that one!",
 				"i know that game!",
 				"is that 'casualties unkown'?",
+				"Hmm, this looks familiar...",
+				"Please take better care of them this time, please?",
+				"Oh boy, my favorite game!",
+				"So how do you plan to get down this time?",
+				"Wait.. you control.. one of us?"
 			],
 			
 			
@@ -831,26 +836,111 @@
 				"♫beneath the blood-stained sand♫",
 				"♫Beneath the blood-stained sand♫"
 			],
-			
+						 
 			"ConversationRefrence6": [
-				"",
+				"CAR CRASH!!!",
+				"GLASS SHATTERING!!!",
+				"GOOD LORD!!",
+				"GENERAL COMMOTION!",
+				"BABY CRYING!!!",
+				"WA! WA! WA!",
+				"YELLING!",
+				"POLICE SIRENS!!",
+				"WEEE WOOO WEEE WOO!!!",
+				"HELICOPTERS!!",
+				"REPORTING LIVE!!",
+				"EXPLOSION!!!",
+				"MY LEEEG!!!",
+				"MY LEEEEEEEEEEEEEEEEG!!!!"
 			],
 			
 			"ConversationRefrence7": [
-				"",
+				"F  A  L  L"
 			],
 			
 			"ConversationRefrence8": [
-				"",
+				"i wonder if theres a...",
+				"w h a t s a p p",
+				"version of me..."
 			],
 			
 			"ConversationRefrence9": [
-				"",
+				"hmmmm",
+				"bers",
+				":Exp_plead:"
 			],
 			
 			"ConversationRefrence10": [
+				"i heard that theres a..",
+				"y o u t u b e p e r i m e n t"
+			],
+			
+			"ConversationRefrence11": [
+				"hmmmm",
+				"paramedic",
+				"on everest...",
+				"...",
+				"what am i saying..."
+			],
+			
+			"ConversationRefrence12": [
+				"i want to play on the...",
+				"x b o x p e r i m e n t",
+			],
+			
+			"ConversationRefrence13": [
+				"this thing is",
+				"R e a l l y R e t r o o",
+			],
+			
+			"ConversationRefrence14": [
+				"I love........",
+				"protogens :dune_stare:"
+			],
+			
+			"ConversationRefrence15": [
+				"s i x p e r i m e n t",
+				" s e v e n p e r i m e n t",
+				"...",
+				"where is the gun?"
+			],
+			
+			"ConversationRefrence16": [
+				"im sure that dune would love to eat",
+				"C h e e s e p e r i m e n t",
+			],
+			
+			"ConversationRefrence17": [
+				"hey {NAME}",
+				"what is love saw?",
+				"i keep hearing it everywhere..."
+			],
+			
+			"ConversationRefrence18": [
+				"i should note this down on my...",
+				"f l i p n o t e p e r i m e n t",
+			],
+			
+			"make this rare": [],
+			"ConversationRefrence19": [
+				"its me protogenperiment the protogen",
+			],
+			
+			"ConversationRefrence20": [
+				"why are there only 13 'voyagers'",
+				"but billions of me..."
+			],
+			
+			"ConversationRefrence21": [
+				"these 2 humans keep telling me to play",
+				"space station 14",
+				"whatever the hell it is"
+			],
+			
+			"ConversationRefrence22": [
 				"",
 			],
+			
 			
 			
 			
@@ -869,17 +959,51 @@
 			],
 			
 			"ConversationRandomHighRep3": [
-				"",
+				"hey you got fent?",
+				"...",
+				"actualy nvm"
 			],
 			
 			"ConversationRandomHighRep4": [
-				"",
+				"oh great heavens!",
 			],
 			
 			"ConversationRandomHighRep5": [
 				"",
 			],
 			
+			
+			
+			
+			"ConversationRandomLowRep1": [
+				"why do you have to make me suffer...",
+				"all you do is hurt me",
+				"why...",
+				"why do you have to be so evil...",
+			],
+			
+			"ConversationRandomLowRep2": [
+				"why are you like this...",
+				"why cant you just stop {NAME}",
+				"why..."
+			],
+			
+			"ConversationRandomLowRep3": [
+				"its getting so hard to keep going...",
+				"your doing this you know...",
+				"you make me want to die"
+			],
+			
+			"ConversationRandomLowRep4": [
+				"please just let me die",
+				"its just so hard to keep going...",
+			],
+			
+			"ConversationRandomLowRep5": [
+				"can you just stop interacting with me?",
+				"everytime you get close to me, you just hurt me more",
+				"please just stop..."
+			],
 			
 			
 			"Intro": [
